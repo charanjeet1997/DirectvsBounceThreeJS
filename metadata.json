@@ -1,0 +1,5 @@
+{
+  "name": "Three.js Earth Lighting Demo",
+  "description": "An interactive web application demonstrating the difference between direct (solar) and indirect (lunar-reflected) lighting on a 3D Earth model using two side-by-side Three.js canvases.",
+  "requestFramePermissions": []
+}
